@@ -1,0 +1,8 @@
+app:
+  debug: true
+database:
+  login: "asteriskuser"
+  password: "asteriskpass"
+  host: "127.0.0.1"
+  port: 3306
+  name: "asterisk"
